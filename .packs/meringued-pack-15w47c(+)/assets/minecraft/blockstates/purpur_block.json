@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "purpur_block", "weight": 100 },
+            { "model": "random/purpur_block1", "weight": 4 },
+            
+            { "model": "random/purpur_block1", "x": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block1", "y": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block2", "weight": 4 },
+            
+            { "model": "random/purpur_block2", "x": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block2", "y": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block3", "weight": 4 },
+            
+            { "model": "random/purpur_block3", "x": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block3", "y": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block4", "weight": 4 },
+            
+            { "model": "random/purpur_block4", "x": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block4", "y": 90, "uvlock": true, "weight": 4 },
+            
+            { "model": "random/purpur_block5", "weight": 4 },
+            
+            { "model": "random/purpur_block5", "x": 90, "uvlock": true, "weight": 4 },
+           
+             { "model": "random/purpur_block5", "y": 90, "uvlock": true, "weight": 4 }
+        ]
+    }
+}

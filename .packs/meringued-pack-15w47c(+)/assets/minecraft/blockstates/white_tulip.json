@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "white_tulip" },
+            { "model": "random/white_tulip1" },
+            { "model": "random/white_tulip2" }
+        ]
+    }
+}

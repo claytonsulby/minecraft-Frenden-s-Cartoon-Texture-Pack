@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "end_stone", "weight": 50 },
+            { "model": "random/end_stone1", "weight": 10 },
+            
+            { "model": "random/end_stone1", "x": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone1", "y": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone2", "weight": 10 },
+            
+            { "model": "random/end_stone2", "x": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone2", "y": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone3", "weight": 10 },
+            
+            { "model": "random/end_stone3", "x": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone3", "y": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone4", "weight": 10 },
+            
+            { "model": "random/end_stone4", "x": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone4", "y": 90, "uvlock": true, "weight": 10 },
+            
+            { "model": "random/end_stone5", "weight": 10 },
+            
+            { "model": "random/end_stone5", "x": 90, "uvlock": true, "weight": 10 },
+           
+             { "model": "random/end_stone5", "y": 90, "uvlock": true, "weight": 10 }
+        ]
+    }
+}

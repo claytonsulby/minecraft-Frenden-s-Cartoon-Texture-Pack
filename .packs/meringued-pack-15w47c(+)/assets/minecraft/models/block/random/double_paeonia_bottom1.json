@@ -1,0 +1,7 @@
+{
+    "parent": "block/doublecross",
+    "textures": {
+        "cross_top": "blocks/random/double_plant_paeonia_top1",
+        "cross_bottom": "blocks/random/double_plant_paeonia_bottom1"
+    }
+}

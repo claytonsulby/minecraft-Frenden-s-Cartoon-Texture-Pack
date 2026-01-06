@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "coal_block" },
+            { "model": "coal_block", "x": 90, "uvlock": true },
+            { "model": "coal_block", "y": 90, "uvlock": true }
+            ]
+    }
+}

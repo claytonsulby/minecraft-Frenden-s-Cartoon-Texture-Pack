@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "axis=y": [
+            
+        	{ "model": "oak_log", "weight": 50 },
+        	{ "model": "oak_log", "y": 90, "weight": 50 },
+            { "model": "random/oak_log1", "weight": 3 },
+            { "model": "random/oak_log1", "y": 90, "weight": 3 },
+            { "model": "random/oak_log2", "weight": 3 },
+            { "model": "random/oak_log2", "y": 90, "weight": 3 },
+            { "model": "random/oak_log3", "weight": 3 },
+            { "model": "random/oak_log3", "y": 90, "weight": 3 },
+            { "model": "random/oak_log4", "weight": 3 },
+            { "model": "random/oak_log4", "y": 90, "weight": 3 },
+            { "model": "random/oak_log5", "weight": 3 },
+            { "model": "random/oak_log5", "y": 90, "weight": 3 }
+        ],
+        "axis=z":     { "model": "oak_log", "x": 90 },
+        "axis=x":     { "model": "oak_log", "x": 90, "y": 90 },
+        "axis=none":   { "model": "oak_bark" }
+    }
+}

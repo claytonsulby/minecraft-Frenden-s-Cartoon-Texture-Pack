@@ -1,0 +1,12 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "particle": "#side",
+        "down": "#random",
+        "up": "#random",
+        "north": "#end",
+        "east": "#side",
+        "south": "#end",
+        "west": "#side"
+    }
+}

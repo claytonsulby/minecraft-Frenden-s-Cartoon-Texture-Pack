@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all_random",
+    "textures": {
+        "all": "blocks/planks_jungle",
+        "random": "blocks/random/planks_jungle2"
+    }
+}

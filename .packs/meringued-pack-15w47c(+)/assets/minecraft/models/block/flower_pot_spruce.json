@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_pot_tree",
+    "textures": {
+        "flowerpot": "blocks/random/flower_pot_white_low",
+        "plant": "blocks/sapling_spruce"
+    }
+}

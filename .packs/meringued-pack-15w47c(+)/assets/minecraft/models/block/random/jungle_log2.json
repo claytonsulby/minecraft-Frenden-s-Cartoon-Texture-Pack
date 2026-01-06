@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column_random",
+    "textures": {
+        "end": "blocks/log_jungle_top",
+        "side": "blocks/log_jungle",
+        "random": "blocks/random/log_jungle2"
+    }
+}

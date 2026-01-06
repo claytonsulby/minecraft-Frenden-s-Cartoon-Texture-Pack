@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dirt", "weight": 100 },
+            { "model": "dirt", "x": 180, "weight": 100 },
+            { "model": "dirt", "y": 180, "weight": 100 },
+            { "model": "random/dirt1", "weight": 2 },
+            { "model": "random/dirt1", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/dirt1", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/dirt2", "weight": 2 },
+            { "model": "random/dirt2", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/dirt2", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/dirt3", "weight": 2 },
+            { "model": "random/dirt3", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/dirt3", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/dirt4", "weight": 1 },
+            { "model": "random/dirt4", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/dirt5", "weight": 1 },
+            { "model": "random/dirt5", "x": 90, "uvlock": true, "weight": 1 }
+        ]
+    }
+}

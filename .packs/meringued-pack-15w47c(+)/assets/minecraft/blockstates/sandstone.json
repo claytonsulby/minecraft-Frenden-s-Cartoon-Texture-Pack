@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "sandstone_normal", "weight": 150 },
+            { "model": "random/sandstone_normal", "weight": 1 },
+            { "model": "random/sandstone_normal", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sandstone_normal", "y": 90, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal", "y": 180, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal1", "weight": 1 },
+            { "model": "random/sandstone_normal1", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sandstone_normal1", "y": 90, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal1", "y": 180, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal2", "weight": 1 },
+            { "model": "random/sandstone_normal2", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sandstone_normal2", "y": 90, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal2", "y": 180, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal3", "weight": 1 },
+            { "model": "random/sandstone_normal3", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sandstone_normal3", "y": 90, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal3", "y": 180, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal4", "weight": 1 },
+            { "model": "random/sandstone_normal4", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sandstone_normal4", "y": 90, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal4", "y": 180, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal5", "weight": 1 },
+            { "model": "random/sandstone_normal5", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sandstone_normal5", "y": 90, "uvlock": false, "weight": 1 },
+            { "model": "random/sandstone_normal5", "y": 180, "uvlock": false, "weight": 1 }
+
+		]
+    }
+}

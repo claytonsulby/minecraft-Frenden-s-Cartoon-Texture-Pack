@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "axis=y": [
+            
+        	{ "model": "jungle_log", "weight": 50 },
+        	{ "model": "jungle_log", "y": 90, "weight": 50 },
+            { "model": "random/jungle_log1", "weight": 3 },
+            { "model": "random/jungle_log1", "y": 90, "weight": 3 },
+            { "model": "random/jungle_log2", "weight": 3 },
+            { "model": "random/jungle_log2", "y": 90, "weight": 3 },
+            { "model": "random/jungle_log3", "weight": 3 },
+            { "model": "random/jungle_log3", "y": 90, "weight": 3 },
+            { "model": "random/jungle_log4", "weight": 3 },
+            { "model": "random/jungle_log4", "y": 90, "weight": 3 },
+            { "model": "random/jungle_log5", "weight": 3 },
+            { "model": "random/jungle_log5", "y": 90, "weight": 3 }
+        ],
+        "axis=z":   { "model": "jungle_log", "x": 90 },
+        "axis=x":   { "model": "jungle_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "jungle_bark" }
+    }
+}

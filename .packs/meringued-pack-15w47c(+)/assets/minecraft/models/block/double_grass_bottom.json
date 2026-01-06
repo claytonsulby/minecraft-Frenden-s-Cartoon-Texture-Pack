@@ -1,0 +1,7 @@
+{
+    "parent": "block/doubletintedcross",
+    "textures": {
+        "cross_top": "blocks/double_plant_grass_top",
+        "cross_bottom": "blocks/double_plant_grass_bottom"
+    }
+}

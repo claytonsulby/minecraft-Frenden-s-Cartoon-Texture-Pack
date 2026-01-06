@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "age=0": { "model": "beetroots_stage0" },
+        "age=1": { "model": "beetroots_stage1" },
+        "age=2": { "model": "beetroots_stage2" },
+        "age=3": [
+            
+                 { "model": "beetroots_stage3" },
+        
+   	 { "model": "random/beetroots_stage3a" },
+        
+   	 { "model": "random/beetroots_stage3b" },
+        
+   	 { "model": "random/beetroots_stage3c" },
+        
+   	 { "model": "random/beetroots_stage3d" },
+        
+   	 { "model": "random/beetroots_stage3e" }
+        ]
+    }
+}

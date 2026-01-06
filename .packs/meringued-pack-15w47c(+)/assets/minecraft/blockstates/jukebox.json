@@ -1,0 +1,6 @@
+{
+"multipart": [
+{"when": { "has_record": "false" }, "apply": { "model": "jukebox"}},
+{"when": { "has_record": "true" }, "apply": { "model": "jukebox_has_record"}}
+]
+}

@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stonebrick_mossy" },
+            { "model": "random/stonebrick_mossy1" },
+
+            { "model": "random/stonebrick_mossy1", "x": 90, "uvlock": true },
+
+            { "model": "random/stonebrick_mossy1", "y": 90, "uvlock": true },
+
+            { "model": "random/stonebrick_mossy2" },
+
+            { "model": "random/stonebrick_mossy2", "x": 90, "uvlock": true },
+
+            { "model": "random/stonebrick_mossy2", "y": 90, "uvlock": true },
+            { "model": "random/stonebrick_mossy3" },
+
+            { "model": "random/stonebrick_mossy3", "x": 90, "uvlock": true },
+
+            { "model": "random/stonebrick_mossy3", "y": 90, "uvlock": true },
+
+            { "model": "random/stonebrick_mossy4" },
+
+            { "model": "random/stonebrick_mossy4", "x": 90, "uvlock": true },
+            { "model": "random/stonebrick_mossy4", "y": 90, "uvlock": true }
+
+            ]
+    }
+}

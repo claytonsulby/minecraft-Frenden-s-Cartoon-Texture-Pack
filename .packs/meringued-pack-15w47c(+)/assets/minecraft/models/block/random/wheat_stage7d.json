@@ -1,0 +1,6 @@
+{
+    "parent": "block/cropflipped",
+    "textures": {
+        "crop": "blocks/random/wheat_stage_7b"
+    }
+}

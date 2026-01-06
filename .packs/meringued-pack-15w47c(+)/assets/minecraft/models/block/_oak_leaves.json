@@ -1,0 +1,112 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": true,
+    "textures": {
+        "leaves": "blocks/leaves_oak",
+        "particle": "blocks/leaves_oak"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,16,16],
+            "faces": {
+                "up": {
+                    "texture": "#leaves",
+                    "tintindex": 0
+                },
+                "down": {
+                    "texture": "#leaves",
+                    "tintindex": 0
+                },
+                "west": {
+                    "texture": "#leaves",
+                    "tintindex": 0
+                },
+                "east": {
+                    "texture": "#leaves",
+                    "tintindex": 0
+                },
+                "north": {
+                    "texture": "#leaves",
+                    "tintindex": 0
+                },
+                "south": {
+                    "texture": "#leaves",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "from": [-1,2,2],
+            "to": [17,14,14],
+        "rotation": {
+            "origin": [8,8,8],
+            "axis": "y",
+            "angle": 45,
+            "axis": "x",
+            "angle": 45,
+            "rescale": false
+        },
+            "faces": {
+                "west": {
+                    "texture": "#leaves",
+                    "cullface": "west",
+                    "tintindex": 0
+                },
+                "east": {
+                    "texture": "#leaves",
+                    "cullface": "east",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "from": [2,2,-1],
+            "to": [14,14,17],
+        "rotation": {
+            "origin": [8,8,8],
+            "axis": "y",
+            "angle": 45,
+            "axis": "x",
+            "angle": 45,
+            "rescale": false
+        },
+            "faces": {
+                "north": {
+                    "texture": "#leaves",
+                    "cullface": "north",
+                    "tintindex": 0
+                },
+                "south": {
+                    "texture": "#leaves",
+                    "cullface": "south",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "from": [2,-1,2],
+            "to": [14,17,14],
+        "rotation": {
+            "origin": [8,8,8],
+            "axis": "y",
+            "angle": 45,
+            "axis": "x",
+            "angle": 45,
+            "rescale": false
+        },
+            "faces": {
+                "up": {
+                    "texture": "#leaves",
+                    "cullface": "up",
+                    "tintindex": 0
+                },
+                "down": {
+                    "texture": "#leaves",
+                    "cullface": "down",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

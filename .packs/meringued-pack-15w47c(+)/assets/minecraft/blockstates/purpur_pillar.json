@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "axis=y": [
+            { "model": "purpur_pillar_top", "weight": 150 },
+            { "model": "random/purpur_pillar_top1", "weight": 2 },
+            { "model": "random/purpur_pillar_top1", "y": 90, "weight": 2 },
+            { "model": "random/purpur_pillar_top2", "weight": 2 },
+            { "model": "random/purpur_pillar_top2", "y": 90, "weight": 2 },
+            { "model": "random/purpur_pillar_top3", "weight": 2 },
+            { "model": "random/purpur_pillar_top3", "y": 90, "weight": 2 },
+            { "model": "random/purpur_pillar_top4", "weight": 2 },
+            { "model": "random/purpur_pillar_top4", "y": 90, "weight": 2 },
+            { "model": "random/purpur_pillar_top5", "weight": 2 },
+            { "model": "random/purpur_pillar_top5", "y": 90, "weight": 2 }
+        ],
+        "axis=z": { "model": "purpur_pillar_top", "x": 90 },
+        "axis=x": { "model": "purpur_pillar_top", "x": 90, "y": 90 }
+    }
+}

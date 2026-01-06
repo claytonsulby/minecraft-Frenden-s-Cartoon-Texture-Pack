@@ -1,0 +1,137 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "textures": {
+        "fence": "blocks/fences/acacia_fence",
+        "particle": "blocks/fences/acacia_fence",
+        "reeds": "blocks/reeds"
+    },
+    "elements": [
+        {
+            "from": [7,10,7],
+            "to": [9,16,9],
+            "faces": {
+                "up": {
+                    "uv": [10.500004,0.5000019,12.5,2.5000057],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [10.5,0.5,12.5,2.5],
+                    "texture": "#fence",
+                    "cullface": "down",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [1.5,8,3.5,14],
+                    "texture": "#fence"
+                },
+                "east": {
+                    "uv": [1.5,8,3.5,14],
+                    "texture": "#fence"
+                },
+                "north": {
+                    "uv": [1.5,8,3.5,14],
+                    "texture": "#fence"
+                },
+                "south": {
+                    "uv": [1.5,8,3.5,14],
+                    "texture": "#fence"
+                }
+            }
+        },
+        {
+            "from": [7,0,7],
+            "to": [9,10,9],
+            "faces": {
+                "up": {
+                    "uv": [10.499992,0.5000067,12.499992,2.5000067],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [10.5,0.5,12.5,2.5],
+                    "texture": "#fence",
+                    "cullface": "down",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [7.5,6,9.5,16],
+                    "texture": "#fence"
+                },
+                "east": {
+                    "uv": [7.5,6,9.5,16],
+                    "texture": "#fence"
+                },
+                "north": {
+                    "uv": [7.5,6,9.5,16],
+                    "texture": "#fence"
+                },
+                "south": {
+                    "uv": [7.5,6,9.5,16],
+                    "texture": "#fence"
+                }
+            }
+        },
+        {
+            "from": [9,7,8],
+            "to": [11,8,8],
+            "faces": {
+                "north": {
+                    "uv": [11.0,2.0,9.0,3.0],
+                    "texture": "#reeds"
+                },
+                "south": {
+                    "uv": [10.0,2.0,8.0,3.0],
+                    "texture": "#reeds"
+                }
+            }
+        },
+        {
+            "from": [10,8,8],
+            "to": [12,9,8],
+            "faces": {
+                "north": {
+                    "uv": [11.0,0.0,9.0,1.0],
+                    "texture": "#reeds"
+                },
+                "south": {
+                    "uv": [10.0,0.0,8.0,1.0],
+                    "texture": "#reeds"
+                }
+            }
+        },
+        {
+            "from": [7,-3,7],
+            "to": [9,0,9],
+            "faces": {
+                "up": {
+                    "uv": [10.500004,0.5000019,12.5,2.5000057],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [10.5,0.5,12.5,2.5],
+                    "texture": "#fence",
+                    "cullface": "down",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [10.5,12,12.5,15],
+                    "texture": "#fence"
+                },
+                "east": {
+                    "uv": [10.5,12,12.5,15],
+                    "texture": "#fence"
+                },
+                "north": {
+                    "uv": [10.5,12,12.5,15],
+                    "texture": "#fence"
+                },
+                "south": {
+                    "uv": [10.5,12,12.5,15],
+                    "texture": "#fence"
+                }
+            }
+        }
+    ]
+}

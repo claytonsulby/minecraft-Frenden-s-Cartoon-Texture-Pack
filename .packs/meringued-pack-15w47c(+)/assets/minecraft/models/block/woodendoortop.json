@@ -1,0 +1,15 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,16,2],
+            "faces": {
+                "north": {
+                    "texture": "missingtexture"
+                }
+            }
+        }
+    ]
+}

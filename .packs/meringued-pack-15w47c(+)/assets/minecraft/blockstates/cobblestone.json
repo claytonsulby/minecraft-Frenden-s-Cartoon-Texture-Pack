@@ -1,0 +1,49 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cobblestone", "weight": 100 },
+            { "model": "random/cobblestone1", "weight": 2 },
+
+            { "model": "random/cobblestone1", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone1", "y": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone2", "weight": 2 },
+            
+            { "model": "random/cobblestone2", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone2", "y": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone3", "weight": 2 },
+            
+            { "model": "random/cobblestone3", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone3", "y": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone4", "weight": 2 },
+            
+            { "model": "random/cobblestone4", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone4", "y": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone5", "weight": 2 },
+            
+            { "model": "random/cobblestone5", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone5", "y": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone6", "weight": 2 },
+            
+            { "model": "random/cobblestone6", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone6", "y": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone7", "weight": 2 },
+            
+            { "model": "random/cobblestone7", "x": 90, "uvlock": true, "weight": 2 },
+            
+            { "model": "random/cobblestone7", "y": 90, "uvlock": true, "weight": 2 }
+        
+            ]
+    }
+}

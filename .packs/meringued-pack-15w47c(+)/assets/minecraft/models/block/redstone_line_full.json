@@ -1,0 +1,32 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "overlay": "blocks/redstone_dust_line_overlay",
+        "line": "blocks/redstone_dust_line",
+        "particle": "items/redstone_dust"
+    },
+    "elements": [
+        {
+            "from": [0,0.01,0],
+            "to": [16,0.01,16],
+            "faces": {
+                "up": {
+                    "uv": [2,0,14,16],
+                    "texture": "#overlay"
+                }
+            }
+        },
+        {
+            "from": [0,0.02,0],
+            "to": [16,0.02,16],
+            "faces": {
+                "up": {
+                    "uv": [2,0,14,16],
+                    "texture": "#line",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

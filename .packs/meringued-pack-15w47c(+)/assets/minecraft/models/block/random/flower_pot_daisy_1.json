@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_pot_cross",
+    "textures": {
+        "flowerpot": "blocks/random/flower_pot_green_high",
+        "plant": "blocks/random/flower_oxeye_daisy1"
+    }
+}

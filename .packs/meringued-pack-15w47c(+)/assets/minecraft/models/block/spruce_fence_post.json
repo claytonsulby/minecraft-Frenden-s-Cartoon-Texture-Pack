@@ -1,0 +1,96 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "textures": {
+        "particle": "blocks/fences/spruce_fence",
+        "fence": "blocks/fences/spruce_fence"
+    },
+    "elements": [
+        {
+            "from": [6.5,0,6.5],
+            "to": [9.5,14,9.5],
+            "faces": {
+                "down": {
+                    "uv": [0,1,2,3],
+                    "texture": "#fence",
+                    "cullface": "down"
+                },
+                "west": {
+                    "uv": [0,2,3,16],
+                    "texture": "#particle"
+                },
+                "east": {
+                    "uv": [0,2,3,16],
+                    "texture": "#fence"
+                },
+                "north": {
+                    "uv": [3,2,0,16],
+                    "texture": "#fence"
+                },
+                "south": {
+                    "uv": [3,2,0,16],
+                    "texture": "#fence"
+                }
+            }
+        },
+        {
+            "from": [8,14,6],
+            "to": [10,16,10],
+            "faces": {
+                "up": {
+                    "uv": [14,3,16,7],
+                    "texture": "#fence"
+                },
+                "down": {
+                    "uv": [5,0,6,14],
+                    "texture": "#fence",
+                    "cullface": "down"
+                },
+                "east": {
+                    "uv": [6,12,8,16],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "north": {
+                    "uv": [6,14,8,16],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "south": {
+                    "uv": [6,12,8,14],
+                    "texture": "#fence",
+                    "rotation": 90
+                }
+            }
+        },
+        {
+            "from": [6,14,6],
+            "to": [8,16,10],
+            "faces": {
+                "up": {
+                    "uv": [12,3,14,7],
+                    "texture": "#fence"
+                },
+                "down": {
+                    "uv": [5,0,6,14],
+                    "texture": "#fence",
+                    "cullface": "down"
+                },
+                "west": {
+                    "uv": [6,16,8,12],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "north": {
+                    "uv": [6,12,8,14],
+                    "texture": "#fence",
+                    "rotation": 90
+                },
+                "south": {
+                    "uv": [6,14,8,16],
+                    "texture": "#fence",
+                    "rotation": 90
+                }
+            }
+        }
+    ]
+}

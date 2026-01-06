@@ -1,0 +1,39 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "uppersides": "blocks/doors/woodeniron_door_upper_sides",
+        "low": "blocks/door_wood_lower",
+        "particle": "blocks/door_wood_upper",
+        "up": "blocks/door_wood_upper",
+        "lowersides": "blocks/doors/woodeniron_door_lower_sides"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [3,16,16],
+            "faces": {
+                "down": {
+                    "uv": [1,15,2,16],
+                    "texture": "#lowersides"
+                },
+                "west": {
+                    "uv": [16,0,0,16],
+                    "texture": "#low"
+                },
+                "east": {
+                    "uv": [0,0,16,16],
+                    "texture": "#low"
+                },
+                "north": {
+                    "uv": [4,0,7,16],
+                    "texture": "#lowersides"
+                },
+                "south": {
+                    "uv": [1,0,4,16],
+                    "texture": "#lowersides"
+                }
+            }
+        }
+    ]
+}

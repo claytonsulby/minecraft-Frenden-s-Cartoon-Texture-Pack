@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stonebrick_normal", "weight": 100 },
+            { "model": "random/stonebrick_normal1", "weight": 2 },
+            { "model": "random/stonebrick_normal1", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal1", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal2", "weight": 2 },
+            { "model": "random/stonebrick_normal2", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal2", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal3", "weight": 2 },
+            { "model": "random/stonebrick_normal3", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal3", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal4", "weight": 2 },
+            { "model": "random/stonebrick_normal4", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal4", "y": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal5", "weight": 2 },
+            { "model": "random/stonebrick_normal5", "x": 90, "uvlock": true, "weight": 2 },
+            { "model": "random/stonebrick_normal5", "y": 90, "uvlock": true, "weight": 2 }
+        ]
+    }
+}

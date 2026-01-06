@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "oak_leaves", "weight": 150 },
+            { "model": "random/oak_leaves1", "weight": 3 },
+            { "model": "random/oak_leaves1", "y": 90, "weight": 3 },
+            { "model": "random/oak_leaves2", "weight": 3 },
+            { "model": "random/oak_leaves2", "y": 90, "weight": 3 },
+            { "model": "random/oak_leaves3", "weight": 3 },
+            { "model": "random/oak_leaves3", "y": 90, "weight": 3 },
+            { "model": "random/oak_leaves4", "weight": 3 },
+            { "model": "random/oak_leaves4", "y": 90, "weight": 3 }
+        ]
+    }
+}

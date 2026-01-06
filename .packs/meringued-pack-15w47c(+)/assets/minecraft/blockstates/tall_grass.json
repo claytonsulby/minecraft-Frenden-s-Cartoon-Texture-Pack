@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "tall_grass", "weight": 100 },
+            { "model": "random/tall_grass1", "weight": 100 },
+            { "model": "random/tall_grass2", "weight": 100 },
+            { "model": "random/tall_grass3", "weight": 100 },
+            { "model": "random/tall_grass4", "weight": 100 },
+            { "model": "random/tall_grass5", "weight": 100 },
+            { "model": "random/tall_grass6", "weight": 20 },
+            { "model": "random/tall_grass7", "weight": 20 },
+            { "model": "random/tall_grass8", "weight": 20 },
+            { "model": "random/tall_grass9", "weight": 20 },
+            { "model": "random/tall_grass10", "weight": 20 }
+        ]
+    }
+}

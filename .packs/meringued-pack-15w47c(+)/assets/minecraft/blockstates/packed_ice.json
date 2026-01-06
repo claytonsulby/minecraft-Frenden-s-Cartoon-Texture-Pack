@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "packed_ice", "weight": 100 },
+            
+            { "model": "packed_ice", "weight": 100, "x": 180 },
+            
+            { "model": "packed_ice", "weight": 100, "y": 180 },
+            
+            { "model": "packed_ice", "weight": 100, "z": 180 }
+            
+        ]
+    }
+}

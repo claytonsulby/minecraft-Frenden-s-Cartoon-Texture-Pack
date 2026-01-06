@@ -1,0 +1,8 @@
+{
+    "parent": "block/flower_pot_tree",
+    "textures": {
+        "flowerpot": "blocks/random/flower_pot_black_low",
+        "dirt": "blocks/dirt_podzol_top",
+        "plant": "blocks/random/red_mushroom1"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "poppy" },
+            { "model": "random/poppy1" },
+            { "model": "random/poppy2" }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "multipart": [
+        {   "when": { "OR": [
+                {"north": "none", "east": "none", "south": "none", "west": "none"},
+                {"north": "side|up", "east": "side|up" },
+                {"east": "side|up", "south": "side|up" },
+                {"south": "side|up", "west": "side|up"},
+                {"west": "side|up", "north": "side|up"}
+            ]},
+            "apply": { "model": "redstone_dot" }
+        },
+        
+        {   "when": { "OR": [
+                {"north": "side|up", "east": "side|up", "west": "side|up" },
+                {"east": "side|up", "south": "side|up", "west": "side|up" }
+            ]},
+            "apply": { "model": "redstone_line_full" }
+        },
+        
+        {   "when": { "OR": [
+                {"north": "side|up", "south": "side|up", "east": "side|up" },
+                {"north": "side|up", "south": "side|up", "west": "side|up" }
+            ]},
+            "apply": { "model": "redstone_line_full", "y": -90 }
+        },
+        
+        {   "when": { "south": "none", "north": "side|up" },
+            "apply": { "model": "redstone_line_left", "y": 180 }
+        },
+        {   "when": { "west": "none", "east": "side|up" },
+            "apply": { "model": "redstone_line_left", "y": -90 }
+        },
+        {   "when": { "north": "none", "south": "side|up" },
+            "apply": { "model": "redstone_line_right", "y": 180 }
+        },
+        {   "when": { "east": "none", "west": "side|up" },
+            "apply": { "model": "redstone_line_right", "y": 270 }
+        },
+        {   "when": { "north": "side|up", "east": "none", "south": "side|up", "west": "none" },
+            "apply": { "model": "redstone_line_full", "y": -90 }
+        },
+        {   "when": { "north": "none", "east": "side|up", "south": "none", "west": "side|up" },
+            "apply": { "model": "redstone_line_full" }
+        },
+
+        {   "when": { "north": "up" },
+            "apply": { "model": "redstone_up" }
+        },
+        {   "when": { "east": "up" },
+            "apply": { "model": "redstone_up", "y": 90 }
+        },
+        {   "when": { "south": "up" },
+            "apply": { "model": "redstone_up_sw", "y": 180 }
+        },
+        {   "when": { "west": "up" },
+            "apply": { "model": "redstone_up_sw", "y": 270 }
+        }
+    ]
+}

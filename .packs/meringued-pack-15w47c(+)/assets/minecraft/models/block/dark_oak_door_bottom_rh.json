@@ -1,0 +1,134 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "uppersides": "blocks/doors/darkoak_door_upper_sides",
+        "low": "blocks/door_dark_oak_lower",
+        "particle": "blocks/door_dark_oak_upper",
+        "up": "blocks/door_dark_oak_upper",
+        "lowersides": "blocks/doors/darkoak_door_lower_sides"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [3,3,16],
+            "faces": {
+                "up": {
+                    "uv": [0,13,16,14],
+                    "texture": "#low",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [1,15,2,16],
+                    "texture": "#lowersides"
+                },
+                "west": {
+                    "uv": [16,13,0,16],
+                    "texture": "#low"
+                },
+                "east": {
+                    "uv": [0,13,16,16],
+                    "texture": "#low"
+                }
+            }
+        },
+        {
+            "from": [0,0,0],
+            "to": [3,16,3],
+            "faces": {
+                "down": {
+                    "uv": [1,15,2,16],
+                    "texture": "#lowersides"
+                },
+                "west": {
+                    "uv": [16,0,13,16],
+                    "texture": "#low"
+                },
+                "east": {
+                    "uv": [13,0,16,16],
+                    "texture": "#low"
+                },
+                "north": {
+                    "uv": [4,0,7,16],
+                    "texture": "#lowersides"
+                },
+                "south": {
+                    "uv": [13,0,14,16],
+                    "texture": "#low"
+                }
+            }
+        },
+        {
+            "from": [0,0,13],
+            "to": [3,16,16],
+            "faces": {
+                "down": {
+                    "uv": [1,15,2,16],
+                    "texture": "#lowersides"
+                },
+                "west": {
+                    "uv": [3,0,0,16],
+                    "texture": "#low"
+                },
+                "east": {
+                    "uv": [0,0,3,16],
+                    "texture": "#low"
+                },
+                "north": {
+                    "uv": [2,0,3,16],
+                    "texture": "#low"
+                },
+                "south": {
+                    "uv": [1,0,4,16],
+                    "texture": "#lowersides"
+                }
+            }
+        },
+        {
+            "from": [1,0,3],
+            "to": [2,16,13],
+            "faces": {
+                "west": {
+                    "uv": [13,0,3,16],
+                    "texture": "#low"
+                },
+                "east": {
+                    "uv": [3,0,13,16],
+                    "texture": "#low"
+                }
+            }
+        },
+        {
+            "from": [0,5,5],
+            "to": [3,14,11],
+            "faces": {
+                "up": {
+                    "uv": [5,2,11,3],
+                    "texture": "#low",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [5,10,11,11],
+                    "texture": "#low",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [11,2,5,11],
+                    "texture": "#low"
+                },
+                "east": {
+                    "uv": [5,2,11,11],
+                    "texture": "#low"
+                },
+                "north": {
+                    "uv": [10,2,11,11],
+                    "texture": "#low"
+                },
+                "south": {
+                    "uv": [5,2,6,11],
+                    "texture": "#low"
+                }
+            }
+        }
+    ]
+}

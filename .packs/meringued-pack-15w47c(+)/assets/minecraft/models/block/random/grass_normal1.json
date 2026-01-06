@@ -1,0 +1,11 @@
+{
+    "parent": "block/grass_random",
+    "textures": {
+        "particle": "blocks/dirt",
+        "bottom": "blocks/dirt",
+        "top": "blocks/grass_top",
+        "side": "blocks/grass_side",
+        "random": "blocks/random/grass_side1",
+        "overlay": "blocks/grass_side_overlay"
+    }
+}

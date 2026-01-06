@@ -1,0 +1,40 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "sand", "weight": 100 },
+            { "model": "sand", "weight": 100, "x": 180 },
+            { "model": "sand", "weight": 100, "y": 180 },
+            { "model": "random/sand1", "weight": 1 },
+            { "model": "random/sand1", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand1", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand1", "y": 180, "uvlock": true, "weight": 1 },
+            { "model": "random/sand1", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sand2", "weight": 1 },
+            { "model": "random/sand2", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand2", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand2", "y": 180, "uvlock": true, "weight": 1 },
+            { "model": "random/sand2", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sand3", "weight": 1 },
+            { "model": "random/sand3", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand3", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand3", "y": 180, "uvlock": true, "weight": 1 },
+            { "model": "random/sand3", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sand4", "weight": 10 },
+            { "model": "random/sand4", "weight": 10, "x": 180 },
+            { "model": "random/sand4", "x": 90, "uvlock": true, "weight": 10 },
+            { "model": "random/sand4", "y": 90, "uvlock": true, "weight": 10 },
+            { "model": "random/sand4", "y": 180, "weight": 10 },
+            { "model": "random/sand4", "y": 270, "uvlock": true, "weight": 10 },
+            { "model": "random/sand5", "weight": 1 },
+            { "model": "random/sand5", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand5", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand5", "y": 180, "uvlock": true, "weight": 1 },
+            { "model": "random/sand5", "y": 270, "uvlock": true, "weight": 1 },
+            { "model": "random/sand6", "weight": 1 },
+            { "model": "random/sand6", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand6", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/sand6", "y": 180, "uvlock": true, "weight": 1 },
+            { "model": "random/sand6", "y": 270, "uvlock": true, "weight": 1 }
+        ]
+    }
+}

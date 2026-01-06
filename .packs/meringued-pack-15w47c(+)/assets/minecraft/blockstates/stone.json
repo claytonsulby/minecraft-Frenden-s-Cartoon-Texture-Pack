@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone", "weight": 100 },
+            { "model": "stone", "x": 180, "weight": 100 },
+            { "model": "random/stone1", "weight": 1 },
+            { "model": "random/stone1", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone1", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone2", "weight": 1 },
+            { "model": "random/stone2", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone2", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone3", "weight": 1 },
+            { "model": "random/stone3", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone4", "weight": 1 },
+            { "model": "random/stone4", "y": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone5", "weight": 1 },
+            { "model": "random/stone5", "x": 90, "uvlock": true, "weight": 1 },
+            { "model": "random/stone5", "y": 90, "uvlock": true, "weight": 1 }
+        ]
+    }
+}

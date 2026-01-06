@@ -1,0 +1,92 @@
+{
+    "variants": {
+        "contents=empty":            { "model": "flower_pot" },
+        "contents=rose":	[
+        { "model": "flower_pot_rose" }, 
+        { "model": "random/flower_pot_rose_1" }, 
+        { "model": "random/flower_pot_rose_2" }	],
+        "contents=blue_orchid":	[
+        { "model": "flower_pot_orchid" }, 
+        { "model": "random/flower_pot_orchid_1" }, 
+        { "model": "random/flower_pot_orchid_2" }	],
+        "contents=allium":	[
+        { "model": "flower_pot_allium" }, 
+        { "model": "random/flower_pot_allium_1" }, 
+        { "model": "random/flower_pot_allium_2" }	],
+        "contents=houstonia":	[
+        { "model": "flower_pot_houstonia" }, 
+        { "model": "random/flower_pot_houstonia_1" }, 
+        { "model": "random/flower_pot_houstonia_2" }	],
+        "contents=red_tulip":	[
+        { "model": "flower_pot_tulip_red" }, 
+        { "model": "random/flower_pot_tulip_red_1" }, 
+        { "model": "random/flower_pot_tulip_red_2" }	],
+        "contents=orange_tulip":	[
+        { "model": "flower_pot_tulip_orange" }, 
+        { "model": "random/flower_pot_tulip_orange_1" }, 
+        { "model": "random/flower_pot_tulip_orange_2" }	],
+        "contents=white_tulip":	[
+        { "model": "flower_pot_tulip_white" }, 
+        { "model": "random/flower_pot_tulip_white_1" }, 
+        { "model": "random/flower_pot_tulip_white_2" }	],
+        "contents=pink_tulip":	[
+        { "model": "flower_pot_tulip_pink" }, 
+        { "model": "random/flower_pot_tulip_pink_1" }, 
+        { "model": "random/flower_pot_tulip_pink_2" }	],
+        "contents=oxeye_daisy":	[
+        { "model": "flower_pot_daisy" }, 
+        { "model": "random/flower_pot_daisy_1" }, 
+        { "model": "random/flower_pot_daisy_2" }	],
+        "contents=dandelion":	[
+        { "model": "flower_pot_dandelion" }, 
+        { "model": "random/flower_pot_dandelion_1" }, 
+        { "model": "random/flower_pot_dandelion_2" }	],
+        "contents=oak_sapling":	[
+        { "model": "flower_pot_oak" }, 
+        { "model": "random/flower_pot_oak_1" }, 
+        { "model": "random/flower_pot_oak_2" }	],
+        "contents=spruce_sapling":	[
+        { "model": "flower_pot_spruce" }, 
+        { "model": "random/flower_pot_spruce_1" }, 
+        { "model": "random/flower_pot_spruce_2" }	],
+        "contents=birch_sapling":	[
+        { "model": "flower_pot_birch" }, 
+        { "model": "random/flower_pot_birch_1" }, 
+        { "model": "random/flower_pot_birch_2" }	],
+        "contents=jungle_sapling":	[
+        { "model": "flower_pot_jungle" }, 
+        { "model": "random/flower_pot_jungle_1" }, 
+        { "model": "random/flower_pot_jungle_2" }	],
+        "contents=acacia_sapling":	[
+        { "model": "flower_pot_acacia" }, 
+        { "model": "random/flower_pot_acacia_1" }, 
+        { "model": "random/flower_pot_acacia_2" }	],
+        "contents=dark_oak_sapling":	[
+        { "model": "flower_pot_dark_oak" }, 
+        { "model": "random/flower_pot_dark_oak_1" }, 
+        { "model": "random/flower_pot_dark_oak_2" }	],
+        "contents=mushroom_red":	[
+        { "model": "flower_pot_mushroom_red" }, 
+        { "model": "random/flower_pot_mushroom_red_1" }, 
+        { "model": "random/flower_pot_mushroom_red_2" }	],
+        "contents=mushroom_brown":	[
+        { "model": "flower_pot_mushroom_brown" }, 
+        { "model": "random/flower_pot_mushroom_brown_1" }, 
+        { "model": "random/flower_pot_mushroom_brown_2" }	],
+        "contents=dead_bush":	[
+        { "model": "flower_pot_dead_bush" }, 
+        { "model": "random/flower_pot_dead_bush_1" }, 
+        { "model": "random/flower_pot_dead_bush_2" }	],
+        "contents=fern":	[
+        { "model": "flower_pot_fern" }, 
+        { "model": "random/flower_pot_fern_1" }, 
+        { "model": "random/flower_pot_fern_2" }	],
+        "contents=cactus":	[
+        { "model": "flower_pot_cactus" }, 
+        { "model": "flower_pot_cactus", "y": 90 }, 
+        { "model": "random/flower_pot_cactus_1" }, 
+        { "model": "random/flower_pot_cactus_1", "y": 90 }, 
+        { "model": "random/flower_pot_cactus_2" }, 
+        { "model": "random/flower_pot_cactus_2", "y": 90 }	]	
+    }
+}

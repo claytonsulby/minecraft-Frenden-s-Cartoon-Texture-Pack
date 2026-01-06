@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "birch_planks", "weight": 100 },
+            { "model": "random/birch_planks1", "weight": 3 },
+            { "model": "random/birch_planks1", "x": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks1", "y": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks2", "weight": 3 },
+            { "model": "random/birch_planks2", "x": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks2", "y": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks3", "weight": 3 },
+            { "model": "random/birch_planks3", "x": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks3", "y": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks4", "weight": 3 },
+            { "model": "random/birch_planks4", "x": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks4", "y": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks5", "weight": 3 },
+            { "model": "random/birch_planks5", "x": 90, "uvlock": true, "weight": 3 },
+            { "model": "random/birch_planks5", "y": 90, "uvlock": true, "weight": 3 }
+        ]
+    }
+}

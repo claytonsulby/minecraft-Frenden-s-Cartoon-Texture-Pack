@@ -1,0 +1,8 @@
+{
+    "parent": "block/leaves_sides_random",
+    "textures": {
+        "all": "blocks/leaves_oak",
+        "alltransparent": "blocks/leaves_oak_trans",
+        "random": "blocks/random/leaves_oak1"
+    }
+}
