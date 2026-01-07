@@ -12,11 +12,8 @@ mkdir -p "$TARGET_DIR"
 
 entries=(
   assets
-  color.properties
   pack.mcmeta
   pack.png
-  pack.txt
-  renderpass.properties
 )
 
 for entry in "${entries[@]}"; do
